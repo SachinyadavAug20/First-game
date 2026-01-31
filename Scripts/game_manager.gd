@@ -6,4 +6,4 @@ var score=0;
 func add_points():
 	score+=1
 	print(score)
-	score_board.text="You collected " + str(score) + " coins.";
+	score_board.text="You collected " + str(score) + "/22 coins.";
